@@ -21,6 +21,7 @@ GreenLeaf Haven is a complete e-commerce website for plant lovers. Customers can
 - Add new plants and update existing ones
 - Track what's in stock
 - View all orders
+![checkout](checkout.PNG)
 
 ## How to Get Started
 
