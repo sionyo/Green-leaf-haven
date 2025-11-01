@@ -2,7 +2,7 @@
 
 A beautiful online plant store where you can browse and shop for beautiful indoor plants. Built with modern web technologies.
 
-![Dashboard](./screenshots/products.png)
+![Dashboard](./products.png)
 ## What is This?
 
 GreenLeaf Haven is a complete e-commerce website for plant lovers. Customers can browse plants, add them to a cart, and checkout securely. Admins can manage products and track orders.
