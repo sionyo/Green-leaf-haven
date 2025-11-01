@@ -15,7 +15,7 @@ GreenLeaf Haven is a complete e-commerce website for plant lovers. Customers can
 - Checkout as a guest (no account needed)
 - Secure payment processing
 - Works on phones and computers
-
+![cart](cart.PNG)
 ### For Store Owners
 - Admin dashboard to manage everything
 - Add new plants and update existing ones
